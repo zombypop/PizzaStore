@@ -1,6 +1,6 @@
 # PizzaStore
 
-SQLite + .NET Core 6 + API + Azure
+SQLite + Entity Framwork Core + .NET Core 6 + Minimal API + Azure
 
 Hosted on azure: https://pizzastore101.azurewebsites.net/swagger/index.html
 
